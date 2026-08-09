@@ -1,2 +1,35 @@
-Hi
-Welcome Here
+# 📊 Minimalist HTML Sales Dashboard
+
+A lightweight, responsive, and fast-loading sales performance dashboard built with plain HTML, CSS (Tailwind/Bootstrap), and minimal JavaScript. Designed specifically for small businesses, indie projects, and quick data visualization.
+
+![Dashboard Preview](https://via.placeholder.com/1000x500.png?text=Sales+Dashboard+Preview)
+
+## ✨ Features
+
+* **Lightweight & Fast:** Zero heavy framework bloat; loads instantly.
+* **Responsive Layout:** Fully optimized for desktop, tablet, and mobile screens.
+* **Key Metrics (KPIs) Cards:** Track Total Revenue, Active Deals, Conversion Rate, and Average Order Value at a glance.
+* **Interactive Charts:** Powered by lightweight charting libraries (e.g., Chart.js / ApexCharts).
+* **Recent Transactions Table:** Clean, sortable data table tracking recent customer orders.
+
+---
+
+## 🚀 Tech Stack
+
+* **Markup:** HTML5
+* **Styling:** [Tailwind CSS / Bootstrap 5]
+* **Scripts / Charts:** Vanilla JavaScript, [Chart.js]
+* **Icons:** Lucide Icons / FontAwesome
+
+---
+
+## 📁 Project Structure
+
+```text
+sales-dashboard/
+├── index.html          # Main dashboard entry point
+├── assets/
+│   ├── css/            # Custom styles
+│   ├── js/             # Chart configurations & UI logic
+│   └── images/         # Logos & avatars
+└── README.md           # Project documentation
