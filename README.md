@@ -1,9 +1,6 @@
 # 📊 Minimalist HTML Sales Dashboard
 
 A lightweight, responsive, and fast-loading sales performance dashboard built with plain HTML, CSS (Tailwind/Bootstrap), and minimal JavaScript. Designed specifically for small businesses, indie projects, and quick data visualization.
-
-![Dashboard Preview](https://via.placeholder.com/1000x500.png?text=Sales+Dashboard+Preview)
-
 ## ✨ Features
 
 * **Lightweight & Fast:** Zero heavy framework bloat; loads instantly.
