@@ -19,14 +19,3 @@ A lightweight, responsive, and fast-loading sales performance dashboard built wi
 * **Icons:** Lucide Icons / FontAwesome
 
 ---
-
-## 📁 Project Structure
-
-```text
-sales-dashboard/
-├── index.html          # Main dashboard entry point
-├── assets/
-│   ├── css/            # Custom styles
-│   ├── js/             # Chart configurations & UI logic
-│   └── images/         # Logos & avatars
-└── README.md           # Project documentation
